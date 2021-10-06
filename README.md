@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Arsamak11 | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />][telegram] -->
+<!-- [<img align="left" alt="Arsamak11 | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />][telegram] --> -->
 [<img align="left" alt="Arsamak11 | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Arsamak11 | VK" width="40px" src="https://img.icons8.com/color/48/000000/vk-circled.png" />][vk]
 
@@ -47,4 +47,4 @@
 [instagram]: https://www.instagram.com/arsamak__/
 [vk]: https://vk.com/feed
 
-<!-- [telegram]: https://t.me/mutaliev_ing/ -->
+ <!-- [telegram]: https://t.me/mutaliev_ing/ --> -->
