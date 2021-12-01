@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.instagram.com/arsamak__/">
-<img align="left" alt="zulamho | Instagram" width="35px" src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_inverted_variant_Logo_2016.png" /> </a>
+<img align="left" alt="arsamak | Instagram" width="35px" src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_inverted_variant_Logo_2016.png" /> </a>
 
 <a href="https://wa.me/79678599992">
 <img align="left" alt="89678599992 | WhatsApp" width="51px" src="https://www.marcelamaia.org/wp-content/uploads/2016/06/logo-whatsapp-png-971.png" />
@@ -16,9 +16,6 @@
 <a href="https://vk.com/id426565264">
 <img align="left" alt="pochtabot | Telegram"   width= "33px" src="https://avatars.mds.yandex.net/get-zen_doc/1595469/pub_5f645b5f35960479b9ffb2f3_5f645c3835960479b90165a2/scale_1200" />
 </a>
-
-<br />
-<br />
 
 ### Languages and Tools:
 
@@ -42,5 +39,3 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=000000&logo=Nodemon&logoColor=76D04B&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=FF6C37&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=F7B93E&label="/>
-
-<br/>
